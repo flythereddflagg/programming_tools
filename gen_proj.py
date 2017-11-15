@@ -156,7 +156,7 @@ make clean
 make
 
 .\out.exe
-#drmemory .\output.exe
+#drmemory .\out.exe
 """
 
 bash = r"""#!/bin/bash
